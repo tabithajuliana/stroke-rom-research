@@ -1,10 +1,5 @@
 # Asymmetric ROM Study for Stroke Rehabilitation
 
-**Author:** Tabitha (tabi16@seas.upenn.edu)  
-**Lab:** GRASP Rehabilitation Robotics Lab (Dr. Michelle J. Johnson)  
-**Advisor:** Shafagh Keyvanian  
-**Institution:** University of Pennsylvania - MSE Robotics
-
 ## Project Overview
 Investigating how asymmetric range of motion (ROM) in stroke patients affects upper-extremity workspace and task performance for robot-assisted rehabilitation.
 
