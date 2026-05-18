@@ -25,6 +25,8 @@ This research extends the [Penn Figueroa Lab's assistive_robot_grasp](https://gi
 - Left arm remains at 100% ROM (unaffected limb)
 
 ## Repository Structure
+
+```
 stroke-rom-research/
 ├── urdf_variants/
 │   ├── baseline/
@@ -38,6 +40,7 @@ stroke-rom-research/
 │   ├── screenshots/
 │   └── workspace_analysis/
 └── docs/
+```
 ## Next Steps
 - [ ] Visualize all 5 variants in RViz
 - [ ] Capture screenshots showing ROM differences
